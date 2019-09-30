@@ -46,26 +46,26 @@ export default {
       nestableItems1: [
         {
           id: 0,
-          text: 'Andy'
+          text: 'Greet'
         }, {
           id: 1,
-          text: 'Harry',
+          text: 'AskPhoneNumber',
           children: [{
             id: 2,
-            text: 'David'
+            text: 'AskAddress'
           }]
         }, {
           id: 3,
-          text: 'Lisa'
+          text: 'Thanks'
         }
       ],
       nestableItems2: [
         {
           id: 4,
-          text: 'Mike'
+          text: 'OrderFlight'
         }, {
           id: 5,
-          text: 'Edgar'
+          text: 'OrderHotel'
         }
       ]
     }
